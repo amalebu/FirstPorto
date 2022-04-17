@@ -1,2 +1,2 @@
 # amalebu.github.io
-Coba buat web kak
+Personal Portofolio Web
